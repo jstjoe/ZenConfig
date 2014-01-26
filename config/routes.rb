@@ -1,4 +1,9 @@
 SampleApp::Application.routes.draw do
+  get "accounts/index"
+  get "accounts/create"
+  get "accounts/new"
+  get "accounts/destroy"
+  get "accounts/show"
   resources :users
   resources :sessions
   root  'static_pages#home'

@@ -1,4 +1,5 @@
 class User < ActiveRecord::Base
+  has_and_belongs_to_many :accounts
   before_save { self.email = email.downcase }
   before_create :create_remember_token
   validates :name, presence: true, length: { maximum: 50 }
