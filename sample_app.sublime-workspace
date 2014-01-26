@@ -1,0 +1,850 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"forum",
+				"forum_subscriptions"
+			],
+			[
+				"sub",
+				"subscriptions"
+			],
+			[
+				"par",
+				"parse"
+			],
+			[
+				"getId",
+				"getIdentities"
+			],
+			[
+				"inp",
+				"input_long"
+			],
+			[
+				"data",
+				"dataType"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controllers/users_controller.rb",
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/users/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 549,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 802,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/spec_helper.rb",
+			"settings":
+			{
+				"buffer_size": 1805,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"markdown",
+				"Markdown Preview: Python Markdown: Copy to Clipboard"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 552.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jmccarron/Github/sample_app/spec/requests/user_pages_spec.rb",
+		"/Users/jmccarron/Downloads/rubygems-1.8.25/setup.rb",
+		"/Users/jmccarron/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jmccarron/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jmccarron/Github/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/jmccarron/Github/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/jmccarron/Github/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/Joe/github/local/rails_tutorial/sample_app/config/routes.rb",
+		"/Users/Joe/github/local/rails_tutorial/sample_app/.git/COMMIT_EDITMSG",
+		"/Users/Joe/github/local/rails_tutorial/sample_app/config/initializers/secret_token.rb",
+		"/Users/Joe/github/local/rails_tutorial/sample_app/README.rdoc",
+		"/Users/Joe/github/local/rails_tutorial/.git/COMMIT_EDITMSG",
+		"/Users/Joe/github/local/rails_tutorial/demo_app/app/controllers/users_controller.rb",
+		"/Users/Joe/github/local/rails_tutorial/demo_app/app/controllers/microposts_controller.rb",
+		"/Users/Joe/github/local/rails_tutorial/demo_app/config/routes.rb",
+		"/Users/Joe/github/local/rails_tutorial/demo_app/app/views/layouts/application.html.erb",
+		"/Users/Joe/github/local/rails_tutorial/demo_app/app/views/users/edit.html.erb",
+		"/Users/Joe/github/local/rails_tutorial/demo_app/app/models/user.rb",
+		"/Users/Joe/github/local/rails_tutorial/demo_app/app/models/micropost.rb",
+		"/Users/Joe/github/local/rails_tutorial/demo_app/Gemfile",
+		"/Users/Joe/github/local/rails_tutorial/first_app/Gemfile.lock",
+		"/Users/Joe/github/local/rails_tutorial/first_app/README.md",
+		"/Users/Joe/github/local/rails_tutorial/first_app/Gemfile",
+		"/Users/Joe/github/local/rails_tutorial/demo_app/.gemfile",
+		"/Users/Joe/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Joe/github/local/rails_tutorial/first_app/README.rdoc",
+		"/Users/Joe/github/local/rails_tutorial/first_app/.gitignore",
+		"/Users/Joe/Library/Application Support/Sublime Text 2/Packages/WordCount/WordCount.sublime-settings",
+		"/Users/Joe/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/Joe/Library/Application Support/Sublime Text 2/Packages/RubyTest/TestConsole.hidden-tmTheme",
+		"/Users/Joe/Library/Application Support/Sublime Text 2/Packages/User/RubyTest.sublime-settings",
+		"/Users/Joe/Library/Application Support/Sublime Text 2/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/Joe/Library/Application Support/Sublime Text 2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/Joe/Library/Application Support/Sublime Text 2/Packages/User/ApplySyntax.sublime-settings",
+		"/Users/Joe/Library/Application Support/Sublime Text 2/Packages/ApplySyntax/ApplySyntax.sublime-settings",
+		"/Users/Joe/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Joe/Dropbox/Zendesk/ES Q3 Metrics",
+		"/Users/jmccarron/Dropbox/Zendesk/pyz/triggers.json",
+		"/Users/jmccarron/Dropbox/Zendesk/pyz/lib.rb",
+		"/Users/jmccarron/rubystuff/delete_all_subscriptions_1.1.rb",
+		"/Users/jmccarron/Dropbox/Zendesk/activate help center",
+		"/Users/jmccarron/Dropbox/Zendesk/notes/500 errors",
+		"/Users/jmccarron/Desktop/remote_auth/jwt_maker_plus.html",
+		"/Users/jmccarron/Dropbox/Zendesk/notes/ES Plus",
+		"/Users/jmccarron/Downloads/yelp_reviews/app.js",
+		"/Users/jmccarron/Dropbox/Zendesk/whatsapp - suspended emails/[13988] Checking :storage:logs:hosts:2013:08:21:wo",
+		"/Users/jmccarron/Dropbox/Zendesk/Help Center/The Humble Squid/Help Center - The Humble Squid - JS",
+		"/Users/jmccarron/Dropbox/Zendesk/Help Center/The Humble Squid/Help Center - The Humble Squid - CSS",
+		"/Users/jmccarron/Dropbox/Zendesk/Help Center/The Humble Squid/Full page",
+		"/Users/jmccarron/Dropbox/Zendesk/Help Center/The Humble Squid/Help Center - The Humble Squid - HTML",
+		"/Users/jmccarron/Dropbox/Zendesk/Logs/Mark as spam and suspend",
+		"/Users/jmccarron/rubystuff/hello.rb",
+		"/Users/jmccarron/Dropbox/Zendesk/after-hours-code/loops.rb",
+		"/Users/jmccarron/rubystuff/delete_topic_subscriptions.rb",
+		"/Users/jmccarron/Dropbox/Zendesk/notes/Check Ticket Program",
+		"/Users/jmccarron/Dropbox/Zendesk/notes/Leen's Interview",
+		"/Users/jmccarron/rubystuff/get_subscriptions.rb",
+		"/Users/jmccarron/Downloads/extract_mail_processing_production.log-20130809",
+		"/Users/jmccarron/Downloads/sus details + the logs 441269 (2).txt",
+		"/Users/jmccarron/Dropbox/Zendesk/JWT Token",
+		"/Users/jmccarron/Dropbox/Zendesk/Team Lead/Joe's Team Ticket Metrics - June 2013",
+		"/Users/jmccarron/Dropbox/Zendesk/Non-ticket Activities for Q1 and Q2",
+		"/Users/jmccarron/Dropbox/Zendesk/Team Lead/ES Meeting Notes 7:10:2013",
+		"/Users/jmccarron/Dropbox/Zendesk/Tip of the Week Ideas",
+		"/Users/jmccarron/Dropbox/Zendesk/PM - Mobile/Graham Cruse Interview Notes",
+		"/Users/jmccarron/Desktop/remote_auth/jwt.js",
+		"/Users/jmccarron/Desktop/remote_auth/jwt_maker.html",
+		"/Users/jmccarron/Dropbox/Zendesk/notes/Ted WEds",
+		"/Users/jmccarron/Dropbox/Zendesk/notes/Magento w: Jeremiah",
+		"/Users/jmccarron/Dropbox/Zendesk/notes/yaniv 1 on 1 6:13:13",
+		"/Users/jmccarron/Dropbox/Zendesk/notes/Meet w: Steven 6:11:13",
+		"/Users/jmccarron/Downloads/sso.txt",
+		"/Users/jmccarron/Dropbox/Zendesk/Upload attachments to tickets",
+		"/Users/jmccarron/Dropbox/Zendesk/notes/Ticket Forms",
+		"/Users/jmccarron/Dropbox/Zendesk/notes/aaron 1 on 1",
+		"/Users/jmccarron/Dropbox/Zendesk/1-1/Yaniv 6:6:13",
+		"/Users/jmccarron/Downloads/ATTUSListTest.txt",
+		"/Users/jmccarron/Dropbox/Zendesk/####Finding if Password Reset Emails Were Sent",
+		"/Users/jmccarron/Dropbox/Zendesk/Email notification Joe #13305286277",
+		"/Users/jmccarron/Dropbox/Zendesk/Transcription of what we covered last time:",
+		"/Users/jmccarron/Dropbox/Zendesk/app ideas",
+		"/Users/jmccarron/Downloads/6.txt",
+		"/Users/jmccarron/Dropbox/Zendesk/https:::support.zendesk.com:tickets:412701",
+		"/Users/jmccarron/Dropbox/Zendesk/untitled",
+		"/Users/jmccarron/Dropbox/Zendesk/Check the following things:",
+		"/Users/jmccarron/Dropbox/Zendesk/Triage",
+		"/Users/jmccarron/Downloads/zendesk_auth - Copy.txt",
+		"/Users/jmccarron/Dropbox/Zendesk/Logs/Switch to New Zendesk logs",
+		"/Users/jmccarron/Dropbox/Zendesk/apps/from scratch/app.js",
+		"/Users/jmccarron/.ssh/id_rsa.pub",
+		"/Users/jmccarron/Desktop/jmccarron@logs03:~$ zdig bymid -i -s 2013-04-21 -u",
+		"/Users/jmccarron/Desktop/<8D00C9B6BEC5F4B-1E4-1C86D@webmail-d256",
+		"/Users/jmccarron/Desktop/message",
+		"/Users/jmccarron/Downloads/joeandco (1).csr",
+		"/Users/jmccarron/Desktop/SSL Cert/cert.crt",
+		"/Users/jmccarron/Dropbox/Zendesk/Logs/JWT login",
+		"/Users/jmccarron/Dropbox/Zendesk/Logs/delete forum entries",
+		"/Users/jmccarron/Dropbox/Zendesk/Logs/iOS ticket update hang",
+		"/Users/jmccarron/Desktop/SSL Cert/intermediate.pem",
+		"/Users/jmccarron/Dropbox/Zendesk/Logs/Generate CSV export",
+		"/Users/jmccarron/Dropbox/Zendesk/Logs/Sandbox creation:reset",
+		"/Users/jmccarron/Dropbox/Zendesk/after-hours-code/objects2",
+		"/Users/jmccarron/Dropbox/Zendesk/make acceptance account curl",
+		"/Users/jmccarron/Dropbox/Zendesk/after-hours-code/objects1.rb",
+		"/Users/jmccarron/Downloads/EphramTickets-1/Arun Matthews",
+		"/Users/jmccarron/Downloads/EphramTickets-1/3503.txt",
+		"/Users/jmccarron/Downloads/EphramTickets-1/3488.txt",
+		"/Users/jmccarron/Downloads/EphramTickets-1/3214.txt",
+		"/Users/jmccarron/Downloads/EphramTickets-1/3194.txt",
+		"/Users/jmccarron/Downloads/EphramTickets-1/2884.txt",
+		"/Users/jmccarron/Desktop/E1UINwL-00065a-Vq@das.dastores.net logs",
+		"/Users/jmccarron/Dropbox/Zendesk/Logs/Mark as spam and suspend user",
+		"/Users/jmccarron/Dropbox/Zendesk/Boot speed scratch",
+		"/Users/jmccarron/Dropbox/Zendesk/Boot speed",
+		"/Users/jmccarron/Dropbox/Zendesk/after-hours-code/notes-1",
+		"/Users/jmccarron/Dropbox/Zendesk/after-hours-code/second.rb",
+		"/Users/jmccarron/Dropbox/Zendesk/after-hours code/anything.rb",
+		"/Users/jmccarron/Downloads/week00/02_final.rb",
+		"/Users/jmccarron/Downloads/week00/00_base.rb",
+		"/Users/jmccarron/Downloads/week00/01_refactor.rb",
+		"/Users/jmccarron/Dropbox/Zendesk/Logs/Deactivate a trigger",
+		"/Users/jmccarron/Dropbox/Zendesk/Logs/zdig bynid",
+		"/Users/jmccarron/Dropbox/Zendesk/Logs/Windows Phone Shared Ticket won't update",
+		"/Users/jmccarron/Dropbox/Zendesk/Test Accounts",
+		"/Users/jmccarron/Dropbox/Zendesk/Logs/Ticket creation via mobile app",
+		"/Users/jmccarron/Dropbox/Zendesk/AD Training with Panzer",
+		"/Users/jmccarron/Dropbox/Zendesk/March/1362144900393-d0b5ec0c-8274-11e2-90c1-782bcb27aac8.eml",
+		"/Users/jmccarron/Dropbox/Zendesk/Submitter vs Requester"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"markdown",
+			"<string>#FF1493</string>",
+			"root :",
+			"elsif type =",
+			"lotus",
+			".json",
+			"[PID 20882] <B10DF51B-2621-4F60-8A64-29FE049D4434@tropo.com>",
+			"[PID 16708] <B10DF51B-2621-4F60-8A64-29FE049D4434@tropo.com>",
+			"cking0147@yahoo.com.au",
+			"18123",
+			"<109797D135AE4F49BE0583C02888CBE00BE5A5379F@DFW1MBX20.mex07a.mlsrvr.com>",
+			"pid",
+			"queue",
+			"sprut@zendesk.com",
+			"F2XAPDJZ_51c31a6267464_4e3beb70585536090_sprut@zendesk.com",
+			"14345516057",
+			"clump",
+			"1371236303",
+			"33b0010b-3257-46fa-ac16-cfd3b3c614c4",
+			"timestamp",
+			"[PID 17797] <B59C06AA-D723-4638-AFD0-B197F8C6215F@zendesk.com",
+			"jira",
+			"sharing",
+			"share",
+			"6389",
+			"pat.dann@timeline.tv",
+			"organization"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" when",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/users_controller.rb",
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/users/new.html.erb",
+					"settings":
+					{
+						"buffer_size": 549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								753,
+								755
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "spec/spec_helper.rb",
+					"settings":
+					{
+						"buffer_size": 1805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.149567977242,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Joe/github/local/rails_tutorial/demo_app/config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 135.0,
+	"status_bar_visible": true
+}
