@@ -1,11 +1,7 @@
 SampleApp::Application.routes.draw do
-  get "accounts/index"
-  get "accounts/create"
-  get "accounts/new"
-  get "accounts/destroy"
-  get "accounts/show"
   resources :users
   resources :sessions
+  resources :accounts
   root  'static_pages#home'
   match '/signup',  to: 'users#new',            via: 'get'
   match '/signin',  to: 'sessions#new',         via: 'get'
