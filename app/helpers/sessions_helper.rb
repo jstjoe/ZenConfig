@@ -26,5 +26,23 @@ module SessionsHelper
     current_user.update_attribute(:remember_token, User.encrypt(remember_token))
     cookies.delete(:remember_token)
     self.current_user = nil
+    $selected_account = nil
+    $client = nil
   end
+  def select_account(account)
+    cookies.permanent[:selected_account] = account.id
+    $selected_account = account
+  end
+  def set_client(client)
+    $client = client
+  end
+  def account_selected?
+    !$client.nil?
+  end
+  def account_selected
+    unless account_selected?
+      redirect_to accounts_url, notice: "Please select an account."
+    end
+  end
+
 end

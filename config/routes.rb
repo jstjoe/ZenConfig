@@ -1,8 +1,17 @@
 SampleApp::Application.routes.draw do
+  root  'static_pages#home'
+
   resources :users
   resources :sessions
   resources :accounts
-  root  'static_pages#home'
+  resources :tickets
+  
+  get "tickets/sync"
+  get "tickets/import"
+  get "tickets/migrate"
+
+  get 'accounts/:id/select' => 'accounts#select'
+
   match '/signup',  to: 'users#new',            via: 'get'
   match '/signin',  to: 'sessions#new',         via: 'get'
   match '/signout', to: 'sessions#destroy',     via: 'delete'
